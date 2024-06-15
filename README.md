@@ -4,4 +4,5 @@ ADA Santander Coders | DevOps
 ## Salvando alterações no Git
 
 * comando git push
-* comando git pool
+* comando git pull
+* comando git fetch
