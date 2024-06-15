@@ -1,6 +1,6 @@
-# git-digital-course
-ADA Santander Trilha
+# Curso Digital: Git &  Versionamento
+ADA Santander Coders | DevOps
 
-## Testando comandos git
+## TSalvando alterações no Git
 
 * comando git push
