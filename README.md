@@ -1,6 +1,7 @@
 # Curso Digital: Git &  Versionamento
 ADA Santander Coders | DevOps
 
-## TSalvando alterações no Git
+## Salvando alterações no Git
 
 * comando git push
+* comando git pool
