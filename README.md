@@ -1,4 +1,4 @@
-# Curso Digital: Git &  Versionamento
+# Curso Digital: Git & Versionamento
 ADA Santander Coders | DevOps
 
 ## Salvando alterações no Git
