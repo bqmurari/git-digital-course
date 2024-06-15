@@ -6,4 +6,4 @@ ADA Santander Coders | DevOps
 * comando git push
 * comando git pull
 * comando git fetch
-* testando comandos e demais funcionalidades: commit remoto e local
+* testando comandos e demais funcionalidades: commit remoto e local!
