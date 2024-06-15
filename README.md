@@ -6,3 +6,4 @@ ADA Santander Coders | DevOps
 * comando git push
 * comando git pull
 * comando git fetch
+* testando comandos
